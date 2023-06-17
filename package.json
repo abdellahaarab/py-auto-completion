@@ -1,7 +1,7 @@
 {
   "name": "py-auto-completion",
-  "displayName": "",
-  "description": "",
+  "displayName": "Python Auto Completion",
+  "description": "This extension provides auto-cmpletion support for Python programming in VS Code",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.54.0"
