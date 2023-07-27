@@ -1,6 +1,6 @@
 # My Python Auto Extension
 
-This is the README for your extension "My Python Auto". This extension provides auto-completion for Python code in Visual Studio Code. It offers a set of predefined Python function names to assist developers during code writing.
+This extension provides auto-completion for Python code in Visual Studio Code. It offers a set of predefined Python function names to assist developers during code writing.
 
 ## Features
 
@@ -40,7 +40,7 @@ There are no known issues with this extension.
 
 ## Working with Markdown
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+Here are some useful editor keyboard shortcuts:
 
 - Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
 - Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
