@@ -1,4 +1,4 @@
-# My Python Auto Extension
+#  My Python Auto Extension
 
 This extension provides auto-completion for Python code in Visual Studio Code. It offers a set of predefined Python function names to assist developers during code writing.
 
